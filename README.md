@@ -101,3 +101,7 @@ Esse código é complementar: antes de irrigar, o sistema pode verificar se have
 int ldrValue = analogRead(LDR_PIN);
 float ph = map(ldrValue, 0, 4095, 0, 14);
 ```
+
+## Diagrama
+
+![Diagrama do projeto](esp32/image.jpeg)
