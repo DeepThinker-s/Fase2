@@ -104,7 +104,7 @@ float ph = map(ldrValue, 0, 4095, 0, 14);
 
 ## Diagrama
 
-![Diagrama do projeto](esp32/image.jpeg)
+<img width="900" height="739" alt="image" src="https://github.com/user-attachments/assets/99dc0c3c-e4ab-484b-b38c-df85a43587c5" />
 
 ## 6. Link Youtube
 Link: https://youtu.be/gm041xCn9kE
