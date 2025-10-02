@@ -108,4 +108,3 @@ float ph = map(ldrValue, 0, 4095, 0, 14);
 
 ## 6. Link Youtube
 Link: https://youtu.be/gm041xCn9kE
-
