@@ -1,3 +1,14 @@
+## Cap1 - Um mapa do tesouro!
+
+## Integrantes do GRUPO 13
+
+| Nome | RM | Email |
+| :--- | :--- | :--- |
+| Viviane de Castro | RM567367 | vivi.topproducer@gmail.com |
+| GUILHERME FERREIRA SANTOS | RM566833 | gifisi.channel@gmail.com |
+| André Pessoa Gaidzakian | RM567877 | andrepgaidzak@gmail.com |
+| Erick Prados Pereira | RM566833 | erick.prados.pereira@gmail.com |
+
 # Objetivo do Sistema
 
 O sistema foi desenvolvido para automatizar a irrigação agrícola utilizando:
